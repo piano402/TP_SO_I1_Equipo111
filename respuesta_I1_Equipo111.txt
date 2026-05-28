@@ -3,3 +3,5 @@ Flores Jose
 
 A)si ,se puede ver los datos cargados
 B)se puede ver el archivo en el GitHub pero en el local se tiene que hace el pull 
+C) Si pueden ver el archivo en la pagina de GitHub pero al trabajar local necesitan hacer el pull
+D) Nos comunicamos por discord en el dojo, y viendo los seguimientos en el project de Github
