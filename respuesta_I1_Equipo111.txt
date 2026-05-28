@@ -1,2 +1,5 @@
 Gabriel Arroyo
 Flores Jose
+
+A)si ,se puede ver los datos cargados
+B)se puede ver el archivo en el GitHub pero en el local se tiene que hace el pull 
